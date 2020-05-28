@@ -142,6 +142,7 @@ int main(void)
   MX_DMA2D_Init();
   MX_FMC_Init();
   MX_LTDC_Init();
+
   MX_I2C3_Init();
   MX_TouchGFX_Init();
   /* USER CODE BEGIN 2 */
